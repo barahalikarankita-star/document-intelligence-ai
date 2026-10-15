@@ -1,0 +1,6 @@
+{
+  "name": "Document Intelligence AI",
+  "description": "Educational NLP-powered document analysis application featuring semantic search, vector passage retrieval, Gemini Q&A with citations, summarization, keyword extraction, and voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
